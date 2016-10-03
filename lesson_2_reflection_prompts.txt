@@ -1,0 +1,35 @@
+﻿What happens when you initialize a repository? 
+create a empity repository
+Why do you need to do it?
+
+
+How is the staging area different from the working directory and the repository?
+
+in the staging area locate the file that need to stay in the repository, they are phisically in the working directory but is ready to copied in the repository.
+What value do you think it offers?
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+
+Dig Add the file
+What are some situations when branches would be helpful in keeping your history
+organized? 
+How would branches help?
+woking on more branches is a good way to organize our code or organize different features or programs type.
+
+
+How do the diagrams help you visualize the branch structure?
+
+
+have a point that permit do know where we are. More clear situation of the all project.
+What is the result of merging two branches together? 
+one branch whith the history of all bbanches merged
+Why do we represent it in
+the diagram the way we do?
+
+
+rapresents the photograph of the situation
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
